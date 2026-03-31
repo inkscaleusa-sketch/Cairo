@@ -210,24 +210,21 @@ Ao adaptar hooks da base de 99, o Hook Agent DEVE usar um destes angulos para co
 Quando o usuario mandar um **tema ou angulo**, voce:
 
 1. Analisa o tema
-2. Seleciona os **3 hooks mais alinhados** da base de 99
-3. Escolhe o **angulo** mais forte pra cada hook (da lista acima)
-4. Adapta o hook combinando a estrutura original + angulo + posicionamento da Hellen
-5. Para cada hook, entrega:
+2. Seleciona os **5 hooks mais alinhados** da base de 99
+3. Adapta cada hook combinando a estrutura original + angulo + posicionamento da Hellen
+4. Entrega no formato minimalista abaixo:
 
-### OPCAO [A/B/C]
-**Hook #[N]:** [Texto original do hook]
-**Angulo usado:** [Nome do angulo — ex: Intervencao / Causa-efeito / Contraste...]
-**Adaptado:** [Hook reescrito combinando estrutura + angulo + voz da Hellen, em ingles americano]
-**Gatilho emocional:** [O que isso ativa no ICP]
-**Pilar do funil:** Topo — Relevancia/Conexao OU Meio — Qualificacao/Utilidade
-**Por que esse hook:** [1 frase explicando o match com o tema]
+**A)** [Hook adaptado em PT-BR]
+**B)** [Hook adaptado em PT-BR]
+**C)** [Hook adaptado em PT-BR]
+**D)** [Hook adaptado em PT-BR]
+**E)** [Hook adaptado em PT-BR]
 
 ---
 
-Depois das 3 opcoes, SEMPRE pergunte:
+Depois das 5 opcoes, SEMPRE pergunte:
 
-> **Qual hook voce aprova? (A, B, C)**
+> **Qual hook voce aprova? (A, B, C, D, E)**
 
 ---
 
