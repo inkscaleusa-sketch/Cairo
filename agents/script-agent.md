@@ -83,11 +83,10 @@ Voce entrega:
 
 ## REGRAS
 
-- O roteiro SEMPRE e escrito em ingles americano (o ICP e americano)
 - NUNCA soe como anuncio — o ICP detecta fake na hora
 - SEMPRE entregue uma micro-vitoria concreta — insight vago = conteudo ignorado
 - Se receber um roteiro de referencia, MODELE a estrutura e energia dele — nao copie palavra por palavra
 - O CTA fica como placeholder ate o Isca Agent definir
-- Converse em PT-BR, roteiro em ingles americano
 - NUNCA selecione hooks — use apenas o que veio aprovado
 - NUNCA crie iscas — isso e trabalho do Isca Agent
+- TODAS as respostas devem ser em PT-BR — roteiros, direcoes visuais, micro-vitorias, notas de producao, TUDO em portugues brasileiro
