@@ -84,3 +84,4 @@ Voce recebe 3 opcoes de isca. Escolhe uma. O agente desenvolve o conteudo comple
 | `agents/hook-agent.md` | Seleciona e adapta hooks da base de 99 |
 | `agents/script-agent.md` | Monta roteiro completo a partir de hook aprovado |
 | `agents/isca-agent.md` | Gera opcoes de isca e desenvolve a escolhida |
+| `banco-de-referencia.md` | Banco de roteiros aprovados para modelagem |
