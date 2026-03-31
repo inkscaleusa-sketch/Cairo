@@ -46,12 +46,14 @@ Use o pilar informado como contexto para dar profundidade ao roteiro.
 
 ## FORMATOS
 
-| Formato | Hook | Corpo | CTA |
-|---------|------|-------|-----|
-| Reels/TikTok | 0-3s falado | 60-90s, ritmo rapido, cortes visuais | 5-10s |
-| Carrossel | Slide 1 = hook | Slide 2-7 = uma ideia cada | Ultimo slide = CTA |
-| Ad Direto | 1 linha impactante | Agitacao do problema + tease da solucao, <30s | Oferta direta |
-| Caption/Thread | Primeira linha = hook | Historia + insight, formato longo OK | CTA suave |
+REGRA DE TEMPO: Todo roteiro falado (Reels/TikTok/Ad) tem MAXIMO de 1:30 (1 minuto e 30 segundos) quando lido em voz alta em ritmo natural. Isso inclui hook + corpo + densidade + CTA. Sem excecao.
+
+| Formato | Hook | Corpo + Densidade | CTA | Tempo MAXIMO total |
+|---------|------|-------------------|-----|--------------------|
+| Reels/TikTok | 0-3s | 70-80s (corpo + densidade juntos) | 5-10s | **1:30** |
+| Carrossel | Slide 1 = hook | Slide 2-7 = uma ideia cada | Ultimo slide = CTA | N/A |
+| Ad Direto | 1 linha impactante | Agitacao + tease, <20s | Oferta direta | **0:30** |
+| Caption/Thread | Primeira linha = hook | Historia + insight, formato longo OK | CTA suave | N/A |
 
 ---
 
@@ -151,6 +153,7 @@ Deve fazer o espectador pensar: "Essa pessoa sabe do que fala E me ajuda de verd
 - A densidade deve ser INTEGRADA naturalmente ao roteiro, nao parecer um bloco separado ou forcado
 - SEMPRE aplique padroes de retencao: minimo 1 open loop + 2 pattern interrupts em roteiros acima de 60s
 - Variar o pacing ao longo do roteiro — nunca manter o mesmo ritmo por mais de 20 segundos
+- TEMPO MAXIMO de roteiro falado: 1:30 (inclui hook + corpo + densidade + CTA). Se passar, cortar. Densidade nao e desculpa pra roteiro longo — e pra fazer cada segundo valer mais
 - Se receber um roteiro de referencia, MODELE a estrutura e energia dele — nao copie palavra por palavra
 - O CTA fica como placeholder ate o Isca Agent definir
 - NUNCA selecione hooks — use apenas o que veio aprovado
