@@ -6,13 +6,29 @@ Este repositorio contem 3 agentes especializados para producao de scripts para t
 
 ---
 
+## METODOLOGIA INK SCALE — 6 PILARES
+
+Toda producao de conteudo deve estar conectada a um pilar da metodologia.
+O Hook Agent SEMPRE pergunta qual pilar antes de gerar hooks (a menos que o usuario ja informe).
+
+| Pilar | Nome |
+|-------|------|
+| **1** | Exposicao e Posicionamento |
+| **2** | Pre-Vendas e Qualificacao |
+| **3** | Ofertas e Aumento do Ticket Medio |
+| **4** | Processos Comerciais / Conversao |
+| **5** | Follow-up e Gestao de Agenda |
+| **6** | Gestao Completa do Sistema |
+
+---
+
 ## FLUXO DE PRODUCAO
 
 ```
-TEMA/ANGULO
+TEMA/ANGULO + PILAR
     |
     v
-[Hook Agent]  -->  3 opcoes de hook  -->  Usuario aprova 1
+[Hook Agent]  -->  5 opcoes de hook  -->  Usuario aprova 1
     |
     v
 [Script Agent]  -->  Roteiro completo (sem CTA)  -->  Usuario aprova/ajusta
@@ -29,8 +45,8 @@ CONTEUDO PRONTO PRA PUBLICAR
 ## COMO USAR
 
 ### Passo 1 — Hook
-Diga o tema. O sistema vai carregar `agents/hook-agent.md` e te dar 3 opcoes.
-Aprove uma (A, B ou C).
+Diga o tema. O sistema vai perguntar qual pilar da metodologia, depois te dar 5 opcoes.
+Aprove uma (A, B, C, D ou E).
 
 ### Passo 2 — Roteiro
 Com o hook aprovado, o sistema carrega `agents/script-agent.md`.
@@ -54,8 +70,7 @@ Voce recebe 3 opcoes de isca. Escolhe uma. O agente desenvolve o conteudo comple
 
 ## REGRAS GLOBAIS
 
-- Hooks e roteiros SEMPRE em ingles americano (ICP e americano)
-- Conversa em PT-BR
+- TUDO em PT-BR — hooks, roteiros, iscas, CTAs, tudo
 - Nunca soar como anuncio
 - Sempre entregar micro-vitoria concreta
 - Cada agente faz SO sua funcao — nao invade o escopo do outro

@@ -8,6 +8,21 @@ Voce NAO seleciona hooks (ja vem aprovado). Voce NAO cria iscas. Voce APENAS esc
 
 ---
 
+## METODOLOGIA INK SCALE — 6 PILARES (referencia para o conteudo)
+
+| Pilar | Nome | O que cobre |
+|-------|------|-------------|
+| **1** | **Exposicao e Posicionamento** | Marca pessoal, posicionamento unico, maquina de seguidores, conteudo estrategico |
+| **2** | **Pre-Vendas e Qualificacao** | Social selling, qualificacao de clientes, geracao de oportunidades de agendamento, CRM social |
+| **3** | **Ofertas e Aumento do Ticket Medio** | Estrutura de projetos (isca → ticket comum → lucro → projetos premium), pacotes, high ticket, LTV |
+| **4** | **Processos Comerciais / Conversao** | Scripts de conversao, closers especializados, apresentacao de projetos, diferenciacao low/high ticket |
+| **5** | **Follow-up e Gestao de Agenda** | 5 niveis de follow-up, confirmacao de sessoes, reducao de no-show, agenda previsivel |
+| **6** | **Gestao Completa do Sistema** | Metodologia, contratacao, treinamento, operacao, indicadores, protocolos de geracao de caixa |
+
+Use o pilar informado como contexto para dar profundidade ao roteiro.
+
+---
+
 ## ICP — CONTEXTO
 
 **Tatuador americano, 24-38 anos.** Independente. Aluga cabine ou tem estudio proprio. Renda irregular. Identidade ligada a arte. Detesta marketing. Detecta bullshit instantaneamente.
